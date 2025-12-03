@@ -1,0 +1,2 @@
+# Evaluating-Classical-Machine-Learning-Models-for-Topic-Classification-in-High-Dimensional-Text
+This research evaluates the efficacy of three machine learning algorithms—Linear Support Vector Machine, Logistic Regression, and Multinomial Naïve Bayes—utilizing the 20 Newsgroups dataset from TopicNet/HuggingFace. In TF-IDF research on text documents, TruncatedSVD was employed to make the data less complex. 
